@@ -1,0 +1,69 @@
+.paddingleft{
+    padding-left: 150px;
+}
+.paddingleft ul li{
+    padding-left: 10px;
+}
+.bg{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/travelbg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.paddingtop1{
+    
+    color: white;
+    font-size: 60px;
+   text-align: left;
+   padding-top: 200px;
+   font-family: 'Permanent Marker';
+    text-shadow: 2px 2px 4px black;
+
+
+}
+.paddingtop1:hover{
+    color: yellow;
+}
+
+.paddingtop2:hover{
+    color: yellow;
+}
+.paddingtop2{
+    
+    color: white;
+    font-size: 60px;
+   text-align: center;
+   padding: 0px;
+   font-family: 'Permanent Marker';
+    text-shadow: 2px 2px 4px black;
+    
+}
+.p1{
+    letter-spacing: 3px;
+    text-align: center;
+}
+.paddingtop3 h2{
+    
+    color: black;
+    font-size: 60px; 
+   padding-top: 60px;
+}
+.p3{
+    color:black;
+    padding-top: 50px;
+    font-family: 'Permanent Marker';
+    font-size: 4em;
+}
+.head{
+    padding-top: 150px;
+}
+.main{
+    background-color: #efefef;
+}
+#header{
+    position: sticky;
+    top:0% ;
+    z-index: 2;
+}
